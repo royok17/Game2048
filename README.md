@@ -4,6 +4,6 @@
 
 language: JavaScript
 
-to play download all the files in the repository and click on file Game2048.html
+to play download all the files in the repository and click on Game2048.html
 
 this game developed by royok just for fun :)
